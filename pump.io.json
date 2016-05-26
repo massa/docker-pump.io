@@ -1,6 +1,6 @@
 {
         "driver": "redis",
-        "params": { "host": "redis" },
+        "params": { "host": "localhost" },
         "hostname": "localhost",
 	"address": "0.0.0.0",
 	"port": 31337,
